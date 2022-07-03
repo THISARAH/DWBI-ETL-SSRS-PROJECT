@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MatrixRNEW", "MatrixRNEW\MatrixRNEW.rptproj", "{E7549F0E-6A3B-4832-B664-BD475A57A773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Debug|Default.ActiveCfg = Debug
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Debug|Default.Build.0 = Debug
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Debug|Default.Deploy.0 = Debug
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.DebugLocal|Default.Build.0 = DebugLocal
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Release|Default.ActiveCfg = Release
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Release|Default.Build.0 = Release
+		{E7549F0E-6A3B-4832-B664-BD475A57A773}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3184D1EA-0DA2-43E8-B66D-BC171678FD5C}
+	EndGlobalSection
+EndGlobal
